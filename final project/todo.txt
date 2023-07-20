@@ -1,5 +1,8 @@
+# Course detail >> exams
+- Add submit button
+- put questions into a form.
+
 # Admin site
 - left-side navigation is not intuitive.  Though the course may wish me to leave everything registered there.
 - Questions view: list shows e.g. "question object (5)."  Should show question text instead.
 - Question detail view: Lesson id should show lesson title.
-
